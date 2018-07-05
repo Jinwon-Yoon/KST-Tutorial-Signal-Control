@@ -1,0 +1,11 @@
+<configuration>
+	<input>
+		<net-file value="tutorial.net.xml" />
+		<route-files value="tutorial.route_flow.alt.xml"/>
+		<gui-settings-file value="tutorial.setting.xml"/>
+	</input>
+	<time>
+		<begin value="0"/>
+		<end value="7440"/>
+	</time>
+</configuration>
